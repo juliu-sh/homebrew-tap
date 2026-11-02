@@ -1,6 +1,6 @@
 cask "maccelerate" do
-  version "1.3.1"
-  sha256 "b1f11fe6f23171d20e93b9a09ebabf0f621cd1a48de10294373fd6ec2c6502ea"
+  version "1.4.0"
+  sha256 "f6c4b6a78ff0bbdfb963dafba97de4df095f7e772d134f1e8194b3896155d6f0"
 
   url "https://github.com/juliu-sh/maccelerate/releases/download/v#{version}/Maccelerate-#{version}.dmg"
   name "Maccelerate"
